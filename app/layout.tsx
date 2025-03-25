@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "FinanceHub - Dynamic Payroll System",
   description: "A flexible, cloud-based financial platform with dynamic payroll management",
-    generator: 'v0.dev'
+  
 }
 
 export default function RootLayout({
